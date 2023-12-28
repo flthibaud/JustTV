@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "IPTV Player",
-    "slug": "iptv-player",
+    "name": "JustTV",
+    "slug": "justtv",
     "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,14 +18,14 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "io.florian.expo-starter"
+      "bundleIdentifier": "io.justtv.expo-starter"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "io.florian.expostarter"
+      "package": "io.justtv.expostarter"
     },
     "web": {
       "favicon": "./assets/favicon.png"
